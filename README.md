@@ -5,6 +5,7 @@
   <img src="https://github.com/Blackdog-Programmer/ApacheGroovyBootstrap/blob/master/reference/overview/groovy_features.png" alt="Groovy Features">
 </kbd>
 
+
 ## 1. References
 <ul>
   <li><a href="http://groovy-lang.org/">Groovy.org</a></li>
@@ -12,12 +13,14 @@
   <li><a href="http://groovy-lang.org/gdk.html">Groovy JDK API Documentation</a></li>
 </ul>
 
+
 ## 2. Getting Started
 <ul>
   <li><a href="http://groovy-lang.org/groovysh.html">groovysh - the Groovy repl-like shell</a></li>
   <li><a href="http://groovy-lang.org/groovyc.html">groovyc - the Groovy compiler</a></li>
   <li><a href="http://groovy-lang.org/groovyconsole.html">groovyConsole - the Groovy Swing consoler</a></li>
 </ul>
+    
     
 ## 4. Groovy Basics
 <ul>
