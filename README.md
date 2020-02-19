@@ -5,9 +5,13 @@
   <img src="https://github.com/Blackdog-Programmer/ApacheGroovyBootstrap/blob/master/reference/overview/groovy_features.png" alt="Groovy Features">
 </kbd>
 
-## 1. References 
-
-## 2. Introduction
+## 1. References
+<ul>
+  <li><a href="http://groovy-lang.org/">Groovy.org</a></li>
+  <li><a href="http://groovy-lang.org/api.html">Groovy 3.0.1 API</a></li>
+  <li><a href="http://groovy-lang.org/gdk.html">Groovy JDK API Documentation</a></li>
+  <li><a href="https://sdkman.io/">SDK Man</a></li>
+</ul>
 
 ## 3. Getting Started
 
