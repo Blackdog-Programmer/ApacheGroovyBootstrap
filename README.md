@@ -10,31 +10,110 @@
   <li><a href="http://groovy-lang.org/">Groovy.org</a></li>
   <li><a href="http://groovy-lang.org/api.html">Groovy 3.0.1 API</a></li>
   <li><a href="http://groovy-lang.org/gdk.html">Groovy JDK API Documentation</a></li>
-  <li><a href="http://groovy-lang.org/groovysh.html">groovysh - the Groovy repl-like shell</a></li>
-  <li><a href="http://groovy-lang.org/groovyc.html">groovyc - the Groovy compiler</a></li>
-  <li><a href="http://groovy-lang.org/groovyconsole.html">groovyConsole - the Groovy Swing consoler</a></li>
+>
 </ul>
 
-## 3. Getting Started
-
+## 2. Getting Started
+<ul>
+  <li><a href="http://groovy-lang.org/groovysh.html">groovysh - the Groovy repl-like shell</a></li>
+  <li><a href="http://groovy-lang.org/groovyc.html">groovyc - the Groovy compiler</a></li>
+  <li><a href="http://groovy-lang.org/groovyconsole.html">groovyConsole - the Groovy Swing consoler</a></li
+</ul>
+    
 ## 4. Groovy Basics
+<ul>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+</ul>
+
 
 ## 5. Simple Data Types
+<ul>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+</ul>
+
 
 ## 6. Collections
+<ul>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+</ul>
+
 
 ## 7. Closures
+<ul>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+</ul>
+
 
 ## 8. Control Structures
+<ul>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+</ul>
+
 
 ## 9. Object Oriented Programming(OOP)
+<ul>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+</ul>
+
 
 ## 10. Runtime MetaProgramming
+<ul>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+</ul>
+
 
 ## 11. Compile Time MetaProgramming
+<ul>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+</ul>
+
 
 ## Working with Builders
+<ul>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+</ul>
+
 
 ## Working with REST Services
+<ul>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+</ul>
+
 
 ## Working with the GDK
+<ul>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+  <li><a href= ""> </a></li>
+</ul>
