@@ -32,7 +32,7 @@
     </ul>
   </li>
   <li><a href="http://groovy-lang.org/semantics.html#_power_assertion">Groovy Power Assertion</a></li>
-  <li><a href="http://groovy-lang.org/structure.html#_script_class">Groovy Scripts file is <strong>always compiled to java class file</strong></a></li>
+  <li><a href="http://groovy-lang.org/structure.html#_script_class">Groovy Scripts file is <strong>always compiled to java class file!</strong></a></li>
 </ul>
 
 
