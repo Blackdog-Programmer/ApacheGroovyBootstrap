@@ -31,95 +31,95 @@
       <li><a href="https://medium.com/@webseanhickey/the-evolution-of-a-software-engineer-db854689243#.5zm1hn71e">The Evolution of a Software Engineer</a></li>
     </ul>
   </li>
-  <li><a href= ""> </a></li>
+  <li><a href="http://groovy-lang.org/semantics.html#_power_assertion">Groovy Power Assertion</a></li>
 </ul>
 
 
 ## 5. Simple Data Types
 <ul>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
 </ul>
 
 
 ## 6. Collections
 <ul>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
 </ul>
 
 
 ## 7. Closures
 <ul>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
 </ul>
 
 
 ## 8. Control Structures
 <ul>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
 </ul>
 
 
 ## 9. Object Oriented Programming(OOP)
 <ul>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
 </ul>
 
 
 ## 10. Runtime MetaProgramming
 <ul>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
 </ul>
 
 
 ## 11. Compile Time MetaProgramming
 <ul>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
 </ul>
 
 
 ## Working with Builders
 <ul>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
 </ul>
 
 
 ## Working with REST Services
 <ul>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
 </ul>
 
 
 ## Working with the GDK
 <ul>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
-  <li><a href= ""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
+  <li><a href=""> </a></li>
 </ul>
