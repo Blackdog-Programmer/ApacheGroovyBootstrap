@@ -24,7 +24,7 @@
     
 ## 4. Groovy Basics
 <ul>
-  <li><a href="http://groovy-lang.org/structure.html#_default_imports">Default Imports</a></li>
+  <li><a href="http://groovy-lang.org/structure.html#_default_imports">Grrovy Default Imports</a></li>
   <li><a href= ""> </a></li>
   <li><a href= ""> </a></li>
   <li><a href= ""> </a></li>
