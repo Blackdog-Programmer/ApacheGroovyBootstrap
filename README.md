@@ -42,7 +42,14 @@
   <li><a href="http://groovy-lang.org/objectorientation.html#_annotation">Groovy Annotation</a></li>
   <li><a href="http://docs.groovy-lang.org/next/html/gapi/groovy/transform/package-summary.html">Groovy Tranfrom APIs</a>
     <ul>
-      <li><a href="https://www.slideshare.net/hendersk/groovy-ast-transformations">What is Groovy AST</a></li>
+      <li><a href="https://www.slideshare.net/hendersk/groovy-ast-transformations">What is Groovy AST(Abstract Syntax Tree)</a></li>
+    </ul>
+  </li>
+  <li><a href="https://groovy-lang.org/operators.html">Groovy Operators</a></li>
+  <li><a href="http://docs.groovy-lang.org/latest/html/documentation/grape.html">Dependency management with Grape</a>
+    <ul>
+      <li><a href="https://commons.apache.org/proper/commons-lang/javadocs/api-release/org/apache/commons/lang3/text/package-summary.html">Package org.apache.commons.lang3.text</a></li>
+      <li><a href="https://search.maven.org/">The Central Repository</a></li>
     </ul>
   </li>
 </ul>
