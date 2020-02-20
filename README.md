@@ -57,7 +57,7 @@
 
 ## 5. Simple Data Types
 <ul>
-  <li><a href=""> </a></li>
+  <li><a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html">Java Primitive Data Types</a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
