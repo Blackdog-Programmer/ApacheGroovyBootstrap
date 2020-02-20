@@ -25,7 +25,11 @@
 ## 4. Groovy Basics
 <ul>
   <li><a href="http://groovy-lang.org/structure.html#_default_imports">Grrovy Default Imports</a></li>
-  <li><a href="http://groovy-lang.org/syntax.html#_keywords">Groovy Keywords</a></li>
+  <li><a href="http://groovy-lang.org/syntax.html#_keywords">Groovy Keywords</a>
+    <ul>
+      <li><a href="https://www.baeldung.com/groovy-def-keyword">Def Keyword(dynamic typed)</a></li>
+    </ul>
+  </li>
   <li><a href="http://groovy-lang.org/syntax.html#_single_line_comment">Groovy Comments</a>
     <ul>
       <li><a href="https://medium.com/@webseanhickey/the-evolution-of-a-software-engineer-db854689243#.5zm1hn71e">The Evolution of a Software Engineer</a></li>
