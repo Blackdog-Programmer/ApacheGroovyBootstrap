@@ -74,9 +74,9 @@
 
 ## 6. Collections
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="">Rnages</a></li>
+  <li><a href="">Lists</a></li>
+  <li><a href="">Maps</a></li>
   <li><a href=""> </a></li>
 </ul>
 
