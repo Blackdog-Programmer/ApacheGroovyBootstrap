@@ -61,10 +61,14 @@
   <li><a href="https://groovy-lang.org/objectorientation.html">Groovy Data Types: all primitive datatypes are wrapper class</a></li>
   <li><a href="http://docs.groovy-lang.org/latest/html/documentation/core-semantics.html#_number_promotion">Groovy Number Pormotion</a></li>
   <li><a href="https://groovy-lang.org/operators.html#Operator-Overloading">Groovy Operator Overloading</a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://docs.groovy-lang.org/latest/html/documentation/#all-strings">Groovy String Manipulations</a></li>
+  <li><a href="https://www.geeksforgeeks.org/write-regular-expressions/">How to write Regular Expressions?</a>
+    <ul>
+      <li><a href="https://e.printstacktrace.blog/groovy-regular-expressions-the-definitive-guide/">Groovy Regular Expressions</a></li>
+      <li><a href="https://www.geeksforgeeks.org/regular-expressions-in-java/">Regular Expressions in Java</a></li>
+      <li><a href="https://www.geeksforgeeks.org/regular-expression-python-examples-set-1/">Regular Expression in Python</a></li>
+    </ul>
+  </li>
 </ul>
 
 
