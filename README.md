@@ -58,7 +58,7 @@
 ## 5. Simple Data Types
 <ul>
   <li><a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html">Java Primitive Data Types</a></li>
-  <li><a href="https://groovy-lang.org/objectorientation.html">Groovy Data Types</a></li>
+  <li><a href="https://groovy-lang.org/objectorientation.html">Groovy Data Types: all primitive datatypes are wrapper class</a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
