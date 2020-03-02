@@ -77,7 +77,6 @@
   <li><a href="http://docs.groovy-lang.org/next/html/documentation/working-with-collections.html#Collections-Ranges">Ranges</a></li>
   <li><a href="http://docs.groovy-lang.org/next/html/documentation/working-with-collections.html#Collections-Lists">Lists</a></li>
   <li><a href="http://docs.groovy-lang.org/next/html/documentation/working-with-collections.html#Collections-Maps">Maps</a></li>
-  <li><a href=""> </a></li>
 </ul>
 
 
