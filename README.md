@@ -126,6 +126,11 @@
 </ul>
 
 
+## 12. Groovy Sql
+<ul>
+  <li><a href="https://groovy-lang.org/databases.html">Working with a relational database</a></li>
+</ul>
+
 ## Working with Builders
 <ul>
   <li><a href=""> </a></li>
