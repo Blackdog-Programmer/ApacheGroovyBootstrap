@@ -14,7 +14,7 @@
 </ul>
 
 
-##0 2. Getting Started
+## 02. Getting Started
 <ul>
   <li><a href="http://groovy-lang.org/groovysh.html">groovysh - the Groovy repl-like shell</a></li>
   <li><a href="http://groovy-lang.org/groovyc.html">groovyc - the Groovy compiler</a></li>
@@ -93,10 +93,10 @@
 
 ## 08. Control Structures
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="http://groovy-lang.org/semantics.html#Groovy-Truth">The Groovy Truth</a></li>
+  <li><a href="http://groovy-lang.org/semantics.html#_if_else">if-else</a></li>
+  <li><a href="http://groovy-lang.org/semantics.html#_switch_case">switch / case</a></li>
+  <li><a href="http://groovy-lang.org/semantics.html#_looping_structures">Looping structures</a></li>
 </ul>
 
 
