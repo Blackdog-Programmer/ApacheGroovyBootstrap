@@ -76,17 +76,19 @@
 <ul>
   <li><a href="http://docs.groovy-lang.org/next/html/documentation/working-with-collections.html#Collections-Ranges">Ranges</a></li>
   <li><a href="http://docs.groovy-lang.org/next/html/documentation/working-with-collections.html#Collections-Lists">Lists</a></li>
-  <li><a href="">Maps</a></li>
+  <li><a href="http://docs.groovy-lang.org/next/html/documentation/working-with-collections.html#Collections-Maps">Maps</a></li>
   <li><a href=""> </a></li>
 </ul>
 
 
-## 07. Closures
+## [07. Closures](https://groovy-lang.org/closures.html)
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://groovy-lang.org/closures.html#_syntax">Syntax</a></li>
+  <li><a href="https://groovy-lang.org/closures.html#_parameters">Parameters</a></li>
+  <li><a href="https://groovy-lang.org/closures.html#_delegation_strategy">Delegation Stretegy</a></li>
+  <li><a href="https://groovy-lang.org/closures.html#_closures_in_gstrings">Closure in GStrings</a></li>
+  <li><a href="https://groovy-lang.org/closures.html#_closure_coercion">Closure coercion</a></li>
+  <li><a href="https://groovy-lang.org/closures.html#_currying">Functional Programming</a></li>
 </ul>
 
 
