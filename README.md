@@ -1,4 +1,4 @@
-## 0. What is Appache Groovy
+## What is Appache Groovy
 <p>Apache Groovy is a <strong>powerful, optionally typed</strong> and <strong>dynamic</strong> language, with <strong>static-typing and static compilation</strong> capabilities for the Java platform, aimed at improving developer productivity thanks to a concise, <strong>familiar and easy to learn syntax.</strong> It integrates smoothly with any Java program and immediately delivers to your application powerful features, including scripting capabilities, <strong>Domain-Specific Language</strong> authoring, runtime and compile-time <strong>meta-programming</strong> and <strong>functional</strong> programming.</p>
 
 <kbd>
@@ -6,7 +6,7 @@
 </kbd>
 
 
-## 1. References
+## 01. References
 <ul>
   <li><a href="http://groovy-lang.org/">Groovy.org</a></li>
   <li><a href="http://groovy-lang.org/api.html">Groovy 3.0.1 API</a></li>
@@ -14,7 +14,7 @@
 </ul>
 
 
-## 2. Getting Started
+##0 2. Getting Started
 <ul>
   <li><a href="http://groovy-lang.org/groovysh.html">groovysh - the Groovy repl-like shell</a></li>
   <li><a href="http://groovy-lang.org/groovyc.html">groovyc - the Groovy compiler</a></li>
@@ -22,7 +22,7 @@
 </ul>
     
     
-## 4. Groovy Basics
+## 04. Groovy Basics
 <ul>
   <li><a href="http://groovy-lang.org/structure.html#_default_imports">Grrovy Default Imports</a></li>
   <li><a href="http://groovy-lang.org/syntax.html#_keywords">Groovy Keywords</a>
@@ -55,7 +55,7 @@
 </ul>
 
 
-## 5. Simple Data Types
+## 05. Simple Data Types
 <ul>
   <li><a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html">Java Primitive Data Types</a></li>
   <li><a href="https://groovy-lang.org/objectorientation.html">Groovy Data Types: all primitive datatypes are wrapper class</a></li>
@@ -72,16 +72,16 @@
 </ul>
 
 
-## 6. Collections
+## [O6. Collections](http://docs.groovy-lang.org/next/html/documentation/working-with-collections.html)
 <ul>
-  <li><a href="">Rnages</a></li>
+  <li><a href="https://docs.groovy-lang.org/latest/html/api/groovy/lang/Range.html">Ranges</a></li>
   <li><a href="">Lists</a></li>
   <li><a href="">Maps</a></li>
   <li><a href=""> </a></li>
 </ul>
 
 
-## 7. Closures
+## 07. Closures
 <ul>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
@@ -90,7 +90,7 @@
 </ul>
 
 
-## 8. Control Structures
+## 08. Control Structures
 <ul>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
@@ -99,7 +99,7 @@
 </ul>
 
 
-## 9. Object Oriented Programming(OOP)
+## 09. Object Oriented Programming(OOP)
 <ul>
   <li><a href=""> </a></li>
   <li><a href=""> </a></li>
@@ -130,6 +130,7 @@
 <ul>
   <li><a href="https://groovy-lang.org/databases.html">Working with a relational database</a></li>
 </ul>
+
 
 ## Working with Builders
 <ul>
