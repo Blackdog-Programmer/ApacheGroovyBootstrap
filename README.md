@@ -134,7 +134,7 @@
 </ul>
 
 
-## [12. Groovy Sql - Working with Relational Database]("https://groovy-lang.org/databases.html")
+## [12. Groovy Sql - Working with Relational Database](https://groovy-lang.org/databases.html)
 <ul>
   <li><a href="https://groovy-lang.org/databases.html#_connecting_to_the_database">Connecting to the database</a></li>
   <li><a href="https://groovy-lang.org/databases.html#_executing_sql">Executing SQL</a></li>
