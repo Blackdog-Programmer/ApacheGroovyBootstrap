@@ -116,22 +116,10 @@
 </ul>
 
 
-## 10. Runtime MetaProgramming
-<ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-</ul>
+## [10. Runtime MetaProgramming](https://groovy-lang.org/metaprogramming.html)
 
 
-## 11. Compile Time MetaProgramming
-<ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-</ul>
+## [11. Compile Time MetaProgramming](https://www.baeldung.com/groovy-metaprogramming)
 
 
 ## [12. Groovy Sql - Working with Relational Database](https://groovy-lang.org/databases.html)
@@ -143,28 +131,10 @@
 </ul>
 
 
-## Working with Builders
-<ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-</ul>
+## [Working with Builders](http://docs.groovy-lang.org/next/html/gapi/groovy/transform/builder/Builder.html)
 
 
-## Working with REST Services
-<ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-</ul>
+## [Working with REST Services](https://www.baeldung.com/groovy-web-services)
 
 
-## Working with the GDK
-<ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-</ul>
+## [Working with the GDK](http://docs.groovy-lang.org/docs/next/html/documentation/core-gdk.html)
