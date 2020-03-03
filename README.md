@@ -113,6 +113,7 @@
 ## [09. Object Oriented Programming(OOP)](https://groovy-lang.org/objectorientation.html)
 <ul>
   <li><a href="https://www.baeldung.com/spring-groovy-beans">Groovy Bean Definitions</a></li>
+  <li><a href="https://www.baeldung.com/groovy-traits">An Introduction to Traits in Groovy</a></li>
 </ul>
 
 
