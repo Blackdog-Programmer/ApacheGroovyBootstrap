@@ -11,6 +11,7 @@
   <li><a href="http://groovy-lang.org/">Groovy.org</a></li>
   <li><a href="http://groovy-lang.org/api.html">Groovy 3.0.1 API</a></li>
   <li><a href="http://groovy-lang.org/gdk.html">Groovy JDK API Documentation</a></li>
+  <li><a href="https://groovy-lang.org/style-guide.html">Groovy Style Guide</a></li>
 </ul>
 
 
@@ -109,12 +110,9 @@
 </ul>
 
 
-## 09. Object Oriented Programming(OOP)
+## [09. Object Oriented Programming(OOP)](https://groovy-lang.org/objectorientation.html)
 <ul>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
+  <li><a href="https://www.baeldung.com/spring-groovy-beans">Groovy Bean Definitions</a></li>
 </ul>
 
 
