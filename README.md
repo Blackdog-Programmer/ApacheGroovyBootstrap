@@ -124,7 +124,9 @@
 </ul>
 
 ## [10. Runtime MetaProgramming](https://groovy-lang.org/metaprogramming.html)
-
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/ApacheGroovyBootstrap/blob/master/reference/MetaProgramming/MetaObjectProtocol(MOP).png" alt="MOP Definition">
+</kbd>
 
 ## [11. Compile Time MetaProgramming](https://www.baeldung.com/groovy-metaprogramming)
 
