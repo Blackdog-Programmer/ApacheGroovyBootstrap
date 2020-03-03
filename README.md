@@ -134,9 +134,12 @@
 </ul>
 
 
-## 12. Groovy Sql
+## [12. Groovy Sql - Working with Relational Database](https://groovy-lang.org/databases.html">Working with a relational database)
 <ul>
-  <li><a href="https://groovy-lang.org/databases.html">Working with a relational database</a></li>
+  <li><a href="https://groovy-lang.org/databases.html#_connecting_to_the_database">Connecting to the database</a></li>
+  <li><a href="https://groovy-lang.org/databases.html#_executing_sql">Executing SQL</a></li>
+  <li><a href="https://groovy-lang.org/databases.html#_basic_crud_operations">Basic CRUD operations</a></li>
+  <li><a href="https://groovy-lang.org/databases.html#_advanced_sql_operations">Advanced SQL operations</a></li>
 </ul>
 
 
