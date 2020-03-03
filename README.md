@@ -143,3 +143,6 @@
 
 
 ## [15. Working with the GDK](http://docs.groovy-lang.org/docs/next/html/documentation/core-gdk.html)
+
+
+## Q/A
