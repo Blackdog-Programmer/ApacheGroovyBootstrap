@@ -81,6 +81,9 @@
 
 
 ## [07. Closures](https://groovy-lang.org/closures.html)
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/ApacheGroovyBootstrap/blob/master/reference/Closure/Closure_Overview.png", alt = "Closure Overview">
+</kbd><br>
 <ul>
   <li><a href="https://groovy-lang.org/closures.html#_syntax">Syntax</a></li>
   <li><a href="https://groovy-lang.org/closures.html#_parameters">Parameters</a></li>
@@ -92,6 +95,9 @@
 
 
 ## 08. Control Structures
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/ApacheGroovyBootstrap/blob/master/reference/ControlStrcuture/Groovy_Boolean_Test.png" alt="Groovy Truth Table">
+</kbd><br>
 <ul>
   <li><a href="http://groovy-lang.org/semantics.html#Groovy-Truth">The Groovy Truth</a></li>
   <li><a href="http://groovy-lang.org/semantics.html#_if_else">if-else</a></li>
