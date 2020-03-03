@@ -131,10 +131,10 @@
 </ul>
 
 
-## [Working with Builders](http://docs.groovy-lang.org/next/html/gapi/groovy/transform/builder/Builder.html)
+## [13. Working with Builders](http://docs.groovy-lang.org/next/html/gapi/groovy/transform/builder/Builder.html)
 
 
-## [Working with REST Services](https://www.baeldung.com/groovy-web-services)
+## [14. Working with REST Services](https://www.baeldung.com/groovy-web-services)
 
 
-## [Working with the GDK](http://docs.groovy-lang.org/docs/next/html/documentation/core-gdk.html)
+## [15. Working with the GDK](http://docs.groovy-lang.org/docs/next/html/documentation/core-gdk.html)
