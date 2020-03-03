@@ -91,7 +91,10 @@
   <li><a href="https://groovy-lang.org/closures.html#_closures_in_gstrings">Closure in GStrings</a></li>
   <li><a href="https://groovy-lang.org/closures.html#_closure_coercion">Closure coercion</a></li>
   <li><a href="https://groovy-lang.org/closures.html#_currying">Functional Programming</a></li>
-</ul>
+</ul><br>
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/ApacheGroovyBootstrap/blob/master/reference/Closure/Owner_Delegate_This.png" alt="Closure: Scope, Delegate and Strategy">
+</kbd>
 
 
 ## 08. Control Structures
