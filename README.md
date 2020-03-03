@@ -112,10 +112,14 @@
 
 ## [09. Object Oriented Programming(OOP)](https://groovy-lang.org/objectorientation.html)
 <ul>
-  <li><a href="https://www.baeldung.com/spring-groovy-beans">Groovy Bean Definitions</a></li>
   <li><a href="https://www.baeldung.com/groovy-traits">An Introduction to Traits in Groovy</a></li>
+  <li><a href="https://www.baeldung.com/spring-groovy-beans">Groovy Bean Definitions</a></li>
 </ul>
 
+### 09-1. Q&A
+<ul>
+  <li><a href="https://softwareengineering.stackexchange.com/questions/253124/traits-inheritance-and-interfaces-in-groovy-when-to-use-them">Traits, Inheritance and Interfaces in Groovy, when to use them?</a></li>
+</ul>
 
 ## [10. Runtime MetaProgramming](https://groovy-lang.org/metaprogramming.html)
 
