@@ -27,6 +27,7 @@
     
 ## 04. Groovy Basics
 <ul>
+  <li><a href="https://groovy-lang.org/syntax.html">Groovy Syntax</a></li>
   <li><a href="http://groovy-lang.org/structure.html#_default_imports">Grrovy Default Imports</a></li>
   <li><a href="http://groovy-lang.org/syntax.html#_keywords">Groovy Keywords</a>
     <ul>
